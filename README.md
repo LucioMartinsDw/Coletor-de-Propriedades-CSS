@@ -19,7 +19,7 @@ O objetivo principal deste projeto é fornecer uma ferramenta simples e interati
 1. Clone este repositório para o seu sistema local:
 
 ```sh
-git clone https://github.com/LucioMartinsDw/propriedades-css-app.git
+git clone git@github.com:LucioMartinsDw/Coletor-de-Propriedades-CSS.git
 ```
 
 2. Acesse o diretório do projeto:
