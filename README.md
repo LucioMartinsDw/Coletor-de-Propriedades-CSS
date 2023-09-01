@@ -53,6 +53,6 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correç
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
 ---
-Desenvolvido por [Lucio Martins](https://github.com/"seu-usuario")
+Desenvolvido por [Lucio Martins](https://github.com/LucioMartinsDw)
 
  Certifique-se de ter o Node.js instalado para executar o projeto corretamente.
