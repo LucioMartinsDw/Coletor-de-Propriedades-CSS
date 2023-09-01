@@ -1,4 +1,6 @@
-O Coletor de Propriedades CSS é uma aplicação de linha de comando que permite aos usuários coletar, validar e ordenar propriedades CSS. A aplicação é desenvolvida em JavaScript e utiliza o módulo readline para interagir com a linha de comando.
+# Propriedades CSS App
+
+O Propriedades CSS App é uma aplicação de linha de comando que permite aos usuários coletar, validar e ordenar propriedades CSS. A aplicação é desenvolvida em JavaScript e utiliza o módulo readline para interagir com a linha de comando.
 
 ## Objetivos
 
@@ -35,7 +37,7 @@ npm install
 4. Execute a aplicação:
 
 ```sh
-node app.js
+node index.js
 ```
 
 5. A aplicação iniciará e você poderá começar a inserir propriedades CSS. Siga as instruções na linha de comando para coletar, validar e ordenar as propriedades.
@@ -54,4 +56,4 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 Desenvolvido por [Seu Nome](https://github.com/seu-usuario)
 ```
 
-Copie o bloco acima e cole-o em um arquivo `README.md` no seu repositório do GitHub. Certifique-se de personalizar as partes que mencionam `"seu-usuario"` e outras informações específicas do projeto.
+Lembre-se de substituir `"seu-usuario"` pelo seu nome de usuário do GitHub e ajustar os detalhes do projeto conforme necessário. Certifique-se de ter o Node.js instalado para executar o projeto corretamente.
